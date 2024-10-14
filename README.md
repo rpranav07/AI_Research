@@ -40,10 +40,12 @@ I'll dedicate at least 1 hours daily to my learning.
 - This curriculum is not supposed to be consumed in a linear fashion. Treat it more like a checklist. 
 - You should start with the basics and gradually move towards more complex topics as per your goals and interests.
 
-To follow me in this journey, consider subscribing to my:
-- [Linkedin](www.linkedin.com/in/@pranavssingh).
-- Learning vlogs at [youtube](https://www.youtube.com/@DataSciencewithHarshit)
-- [Discord for discussions and sharing your learnings](https://discord.gg/ux6K7wEu)
+To follow me in this journey, consider subscribing to my social media handels:
+- Learning Vlogs at
+- [Linkedin](https://www.linkedin.com/in/pranavssingh)
+- [Youtube](https://www.youtube.com/@PranavXAI)
+- [Instagram](https://www.instagram.com/r_pranav_singh_07/)
+- [X](https://www.twitter.com/@PranavK14430992)
 
 
 ## Pillar 1: Foundational Knowledge
