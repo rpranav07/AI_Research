@@ -28,7 +28,9 @@ The following curriculum is designed to help me get a deeper and thorough unders
 
 ## My learning approach
 
-Keep an eye on [weekly-notes](./weekly-notes) for my learnings and thoughts.
+In my learning approach, I believe in building a strong foundation by starting from the very basics. Although I have some beginner-level knowledge in AI and machine learning, I aim to solidify my understanding by revisiting key concepts and progressing systematically from the ground up. My focus is on mastering core principles, hands-on coding, and tackling real-world projects. I want to not only understand how algorithms work but also why they work the way they do, ensuring that I can apply them confidently in practical scenarios.
+
+Keep an eye on [Notes](./weekly-notes) for my learnings and thoughts.
 
 I'll dedicate at least 1 hours daily to my learning.
 
