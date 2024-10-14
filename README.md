@@ -1,5 +1,5 @@
 # AI_Research
-![AI Research Program]
+![AI Research Program] Credits to [Harshit Tyagi](https://github.com/dswh)
 
 An independent AI research program 
 I am now embarking on a journey to learn the concepts of AI via this AI Research Program.
@@ -27,11 +27,6 @@ The following curriculum is designed to help me get a deeper and thorough unders
   - [Resources](#resources)
 
 ## My learning approach
-I have a background in Data Science and ML and I've decided to take a recursive approach(going deeper as needed) based on my level of understanding.
-
-My primary purpose of starting this program is to dig deeper into **LLM research and engineering problems**.
-
-So, I'll start from Pillar 5, NLP/LLM research, how LLMs work, how they are pre-trained and how to finetune them. In the process, I will hop onto other Pillars to learn and re-learn a other fundamental concepts.
 
 Keep an eye on [weekly-notes](./weekly-notes) for my learnings and thoughts.
 
@@ -46,7 +41,7 @@ I'll dedicate at least 1 hours daily to my learning.
 - You should start with the basics and gradually move towards more complex topics as per your goals and interests.
 
 To follow me in this journey, consider subscribing to my:
-- [weekly newsletter](https://researchrookie.substack.com/).
+- [Linkedin](www.linkedin.com/in/pranavssingh).
 - Learning vlogs at [youtube](https://www.youtube.com/@DataSciencewithHarshit)
 - [Discord for discussions and sharing your learnings](https://discord.gg/ux6K7wEu)
 
